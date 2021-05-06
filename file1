@@ -4,4 +4,12 @@ This is my fisrt file
 This is my fisrt file
 This is my fisrt file
 This is my fisrt file
+<<<<<<< HEAD
 hello world
+=======
+This is my fisrt file
+This is my fisrt file
+This is my fisrt file
+This is my fisrt file
+This is my fisrt file
+>>>>>>> cc388c299c03e5e1ccee6b26d5f618a5384e2e60
